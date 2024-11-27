@@ -46,13 +46,13 @@ function PWABadge() {
           <div className="PWABadge-buttons">
             {needRefresh && (
               <button
-                className="PWABadge-toast-button"
+                className="button PWABadge-toast-button"
                 onClick={() => updateServiceWorker(true)}
               >
                 Reload
               </button>
             )}
-            <button className="PWABadge-toast-button" onClick={() => close()}>
+            <button className="button PWABadge-toast-button" onClick={() => close()}>
               Close
             </button>
           </div>
