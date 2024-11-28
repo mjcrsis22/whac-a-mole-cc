@@ -32,7 +32,11 @@ function UserPanel() {
       <UserScoring />
       <div className="user-info-container">
         <span className="username">{username}</span>
-        <button className="button exit-button" onClick={handleExit} title='Exit'>
+        <button
+          className="button exit-button"
+          onClick={handleExit}
+          title="Exit"
+        >
           X
         </button>
       </div>
