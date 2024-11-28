@@ -20,7 +20,9 @@ jest.mock('../../../utils/storage', () => ({
   removeStoredData: jest.fn(),
 }));
 
-const mockedGetStoredData =  getStoredData as jest.MockedFn<typeof getStoredData>;
+const mockedGetStoredData = getStoredData as jest.MockedFn<
+  typeof getStoredData
+>;
 
 describe('UserPanel component', () => {
   beforeEach(() => {
