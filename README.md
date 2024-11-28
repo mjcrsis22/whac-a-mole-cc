@@ -13,3 +13,5 @@ npm run dev
 ```
 
 *Para conocer el resto de los comandos revisa el archivo `package.json` (sección `scripts`).*
+
+<div><img src="./public/favicon.png" height="100"></div>
