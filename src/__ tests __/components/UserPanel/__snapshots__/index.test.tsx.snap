@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UserPanel component Renders correctly 1`] = `
+<div>
+  <div
+    class="user-panel"
+  >
+    0
+    <div
+      class="user-info-container"
+    >
+      <span
+        class="username"
+      >
+        MiNombre
+      </span>
+      <button
+        class="button exit-button"
+        title="Exit"
+      >
+        X
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`UserPanel component Renders correctly 2`] = `
+<div>
+  <div
+    class="user-panel"
+  >
+    0
+    <div
+      class="user-info-container"
+    >
+      <span
+        class="username"
+      />
+      <button
+        class="button exit-button"
+        title="Exit"
+      >
+        X
+      </button>
+    </div>
+  </div>
+</div>
+`;

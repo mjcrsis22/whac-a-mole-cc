@@ -20,6 +20,7 @@ export enum ActionTypes {
   SET_STARTED = 'SET_STARTED',
   SET_LEVEL = 'SET_LEVEL',
   SET_POINTS = 'SET_POINTS',
+  SET_DEFAULT = 'SET_DEFAULT',
 }
 
 export type SetStarted = {
@@ -37,7 +38,11 @@ export type SetPoints = {
   payload: number;
 };
 
-export type Actions = SetStarted | SetLevel | SetPoints;
+export type SetDefault = {
+  type: ActionTypes.SET_DEFAULT;
+};
+
+export type Actions = SetStarted | SetLevel | SetPoints | SetDefault;
 
 export function reducer(state: State, action: Actions) {
   switch (action.type) {

@@ -1,0 +1,423 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GameBoard component Renders correctly - according to the started value 1`] = `
+<div>
+  <div
+    class="game-board-container"
+  >
+    <div
+      class="play-container"
+    >
+      <div
+        class="spot-wrapper"
+        style="left: 5%; top: 0%;"
+      >
+        <div
+          class="game-spot"
+        >
+          <div
+            class="spot-mark "
+          />
+          <div
+            class="spot-mole-wrapper"
+          >
+            <img
+              alt="Mole"
+              class="spot-mole "
+              role="button"
+              src="test-file-stub"
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        class="spot-wrapper"
+        style="left: 5%; top: 72%;"
+      >
+        <div
+          class="game-spot"
+        >
+          <div
+            class="spot-mark "
+          />
+          <div
+            class="spot-mole-wrapper"
+          >
+            <img
+              alt="Mole"
+              class="spot-mole "
+              role="button"
+              src="test-file-stub"
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        class="spot-wrapper"
+        style="left: 30%; top: 15%;"
+      >
+        <div
+          class="game-spot"
+        >
+          <div
+            class="spot-mark "
+          />
+          <div
+            class="spot-mole-wrapper"
+          >
+            <img
+              alt="Mole"
+              class="spot-mole "
+              role="button"
+              src="test-file-stub"
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        class="spot-wrapper"
+        style="left: 30%; top: 60%;"
+      >
+        <div
+          class="game-spot"
+        >
+          <div
+            class="spot-mark "
+          />
+          <div
+            class="spot-mole-wrapper"
+          >
+            <img
+              alt="Mole"
+              class="spot-mole "
+              role="button"
+              src="test-file-stub"
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        class="spot-wrapper"
+        style="left: 45%; top: 40%;"
+      >
+        <div
+          class="game-spot"
+        >
+          <div
+            class="spot-mark "
+          />
+          <div
+            class="spot-mole-wrapper"
+          >
+            <img
+              alt="Mole"
+              class="spot-mole "
+              role="button"
+              src="test-file-stub"
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        class="spot-wrapper"
+        style="left: 60%; top: 15%;"
+      >
+        <div
+          class="game-spot"
+        >
+          <div
+            class="spot-mark "
+          />
+          <div
+            class="spot-mole-wrapper"
+          >
+            <img
+              alt="Mole"
+              class="spot-mole "
+              role="button"
+              src="test-file-stub"
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        class="spot-wrapper"
+        style="left: 60%; top: 60%;"
+      >
+        <div
+          class="game-spot"
+        >
+          <div
+            class="spot-mark "
+          />
+          <div
+            class="spot-mole-wrapper"
+          >
+            <img
+              alt="Mole"
+              class="spot-mole "
+              role="button"
+              src="test-file-stub"
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        class="spot-wrapper"
+        style="left: 85%; top: 0%;"
+      >
+        <div
+          class="game-spot"
+        >
+          <div
+            class="spot-mark "
+          />
+          <div
+            class="spot-mole-wrapper"
+          >
+            <img
+              alt="Mole"
+              class="spot-mole "
+              role="button"
+              src="test-file-stub"
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        class="spot-wrapper"
+        style="left: 85%; top: 72%;"
+      >
+        <div
+          class="game-spot"
+        >
+          <div
+            class="spot-mark "
+          />
+          <div
+            class="spot-mole-wrapper"
+          >
+            <img
+              alt="Mole"
+              class="spot-mole "
+              role="button"
+              src="test-file-stub"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`GameBoard component Renders correctly - according to the started value 2`] = `
+<div>
+  <div
+    class="game-board-container"
+  >
+    <div
+      class="play-container"
+    >
+      <div
+        class="spot-wrapper"
+        style="left: 5%; top: 0%;"
+      >
+        <div
+          class="game-spot"
+        >
+          <div
+            class="spot-mark "
+          />
+          <div
+            class="spot-mole-wrapper"
+          >
+            <img
+              alt="Mole"
+              class="spot-mole "
+              role="button"
+              src="test-file-stub"
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        class="spot-wrapper"
+        style="left: 5%; top: 72%;"
+      >
+        <div
+          class="game-spot"
+        >
+          <div
+            class="spot-mark "
+          />
+          <div
+            class="spot-mole-wrapper"
+          >
+            <img
+              alt="Mole"
+              class="spot-mole "
+              role="button"
+              src="test-file-stub"
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        class="spot-wrapper"
+        style="left: 30%; top: 15%;"
+      >
+        <div
+          class="game-spot"
+        >
+          <div
+            class="spot-mark "
+          />
+          <div
+            class="spot-mole-wrapper"
+          >
+            <img
+              alt="Mole"
+              class="spot-mole "
+              role="button"
+              src="test-file-stub"
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        class="spot-wrapper"
+        style="left: 30%; top: 60%;"
+      >
+        <div
+          class="game-spot"
+        >
+          <div
+            class="spot-mark "
+          />
+          <div
+            class="spot-mole-wrapper"
+          >
+            <img
+              alt="Mole"
+              class="spot-mole "
+              role="button"
+              src="test-file-stub"
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        class="spot-wrapper"
+        style="left: 45%; top: 40%;"
+      >
+        <div
+          class="game-spot"
+        >
+          <div
+            class="spot-mark "
+          />
+          <div
+            class="spot-mole-wrapper"
+          >
+            <img
+              alt="Mole"
+              class="spot-mole "
+              role="button"
+              src="test-file-stub"
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        class="spot-wrapper"
+        style="left: 60%; top: 15%;"
+      >
+        <div
+          class="game-spot"
+        >
+          <div
+            class="spot-mark "
+          />
+          <div
+            class="spot-mole-wrapper"
+          >
+            <img
+              alt="Mole"
+              class="spot-mole "
+              role="button"
+              src="test-file-stub"
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        class="spot-wrapper"
+        style="left: 60%; top: 60%;"
+      >
+        <div
+          class="game-spot"
+        >
+          <div
+            class="spot-mark "
+          />
+          <div
+            class="spot-mole-wrapper"
+          >
+            <img
+              alt="Mole"
+              class="spot-mole "
+              role="button"
+              src="test-file-stub"
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        class="spot-wrapper"
+        style="left: 85%; top: 0%;"
+      >
+        <div
+          class="game-spot"
+        >
+          <div
+            class="spot-mark "
+          />
+          <div
+            class="spot-mole-wrapper"
+          >
+            <img
+              alt="Mole"
+              class="spot-mole "
+              role="button"
+              src="test-file-stub"
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        class="spot-wrapper"
+        style="left: 85%; top: 72%;"
+      >
+        <div
+          class="game-spot"
+        >
+          <div
+            class="spot-mark "
+          />
+          <div
+            class="spot-mole-wrapper"
+          >
+            <img
+              alt="Mole"
+              class="spot-mole "
+              role="button"
+              src="test-file-stub"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

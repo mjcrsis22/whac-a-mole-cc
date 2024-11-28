@@ -27,7 +27,7 @@ function GameSpot({ state }: GameSpotProps) {
   };
 
   useEffect(() => {
-    setTimeout(() => setSpotReady(true), 100);
+    window.setTimeout(() => setSpotReady(true), 100);
     return () => {
       setSpotReady(false);
     };
@@ -39,7 +39,7 @@ function GameSpot({ state }: GameSpotProps) {
 
   return (
     <div className="game-spot">
-      <div className={`spot-mark  ${spotReady ? 'ready' : ''}`}></div>
+      <div className={`spot-mark ${spotReady ? 'ready' : ''}`}></div>
       <div className="spot-mole-wrapper">
         <img
           className={`spot-mole ${showMole ? 'show' : ''}`}

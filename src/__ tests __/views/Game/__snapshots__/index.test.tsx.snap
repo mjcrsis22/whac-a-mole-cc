@@ -1,0 +1,267 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Game component Renders correctly 1`] = `
+<div>
+  <div
+    class="game-container"
+  >
+    <div
+      class="game-section"
+    >
+      Cmp UserPanel
+    </div>
+    <div
+      class="game-section"
+    >
+      <div
+        class="game-board-container"
+      >
+        <div
+          class="play-container"
+        >
+          <div
+            class="spot-wrapper"
+            style="left: 5%; top: 0%;"
+          >
+            <div
+              class="game-spot"
+            >
+              <div
+                class="spot-mark "
+              />
+              <div
+                class="spot-mole-wrapper"
+              >
+                <img
+                  alt="Mole"
+                  class="spot-mole "
+                  role="button"
+                  src="test-file-stub"
+                />
+              </div>
+            </div>
+          </div>
+          <div
+            class="spot-wrapper"
+            style="left: 5%; top: 72%;"
+          >
+            <div
+              class="game-spot"
+            >
+              <div
+                class="spot-mark "
+              />
+              <div
+                class="spot-mole-wrapper"
+              >
+                <img
+                  alt="Mole"
+                  class="spot-mole "
+                  role="button"
+                  src="test-file-stub"
+                />
+              </div>
+            </div>
+          </div>
+          <div
+            class="spot-wrapper"
+            style="left: 30%; top: 15%;"
+          >
+            <div
+              class="game-spot"
+            >
+              <div
+                class="spot-mark "
+              />
+              <div
+                class="spot-mole-wrapper"
+              >
+                <img
+                  alt="Mole"
+                  class="spot-mole "
+                  role="button"
+                  src="test-file-stub"
+                />
+              </div>
+            </div>
+          </div>
+          <div
+            class="spot-wrapper"
+            style="left: 30%; top: 60%;"
+          >
+            <div
+              class="game-spot"
+            >
+              <div
+                class="spot-mark "
+              />
+              <div
+                class="spot-mole-wrapper"
+              >
+                <img
+                  alt="Mole"
+                  class="spot-mole "
+                  role="button"
+                  src="test-file-stub"
+                />
+              </div>
+            </div>
+          </div>
+          <div
+            class="spot-wrapper"
+            style="left: 45%; top: 40%;"
+          >
+            <div
+              class="game-spot"
+            >
+              <div
+                class="spot-mark "
+              />
+              <div
+                class="spot-mole-wrapper"
+              >
+                <img
+                  alt="Mole"
+                  class="spot-mole "
+                  role="button"
+                  src="test-file-stub"
+                />
+              </div>
+            </div>
+          </div>
+          <div
+            class="spot-wrapper"
+            style="left: 60%; top: 15%;"
+          >
+            <div
+              class="game-spot"
+            >
+              <div
+                class="spot-mark "
+              />
+              <div
+                class="spot-mole-wrapper"
+              >
+                <img
+                  alt="Mole"
+                  class="spot-mole "
+                  role="button"
+                  src="test-file-stub"
+                />
+              </div>
+            </div>
+          </div>
+          <div
+            class="spot-wrapper"
+            style="left: 60%; top: 60%;"
+          >
+            <div
+              class="game-spot"
+            >
+              <div
+                class="spot-mark "
+              />
+              <div
+                class="spot-mole-wrapper"
+              >
+                <img
+                  alt="Mole"
+                  class="spot-mole "
+                  role="button"
+                  src="test-file-stub"
+                />
+              </div>
+            </div>
+          </div>
+          <div
+            class="spot-wrapper"
+            style="left: 85%; top: 0%;"
+          >
+            <div
+              class="game-spot"
+            >
+              <div
+                class="spot-mark "
+              />
+              <div
+                class="spot-mole-wrapper"
+              >
+                <img
+                  alt="Mole"
+                  class="spot-mole "
+                  role="button"
+                  src="test-file-stub"
+                />
+              </div>
+            </div>
+          </div>
+          <div
+            class="spot-wrapper"
+            style="left: 85%; top: 72%;"
+          >
+            <div
+              class="game-spot"
+            >
+              <div
+                class="spot-mark "
+              />
+              <div
+                class="spot-mole-wrapper"
+              >
+                <img
+                  alt="Mole"
+                  class="spot-mole "
+                  role="button"
+                  src="test-file-stub"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="game-controls-container"
+      >
+        <button
+          class="button"
+        >
+          Play
+        </button>
+      </div>
+    </div>
+    <div
+      class="game-section"
+    >
+      <div
+        class="game-settings-panel"
+      >
+        <span>
+          Levels
+        </span>
+        <div
+          class="level-buttons"
+        >
+          <button
+            class="button level-button selected"
+            title="Level LOW"
+          >
+            LOW
+          </button>
+          <button
+            class="button level-button "
+            title="Level MEDIUM"
+          >
+            MEDIUM
+          </button>
+          <button
+            class="button level-button "
+            title="Level HARD"
+          >
+            HARD
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

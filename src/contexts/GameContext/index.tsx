@@ -9,7 +9,7 @@ export interface GameContextType {
 // eslint-disable-next-line react-refresh/only-export-components
 export const GameContext = createContext<GameContextType>({
   state: INITIAL_STATE,
-  dispatch: () => {},
+  dispatch: new Function('return () => {}')(),
 });
 
 interface GameContextProviderProps {

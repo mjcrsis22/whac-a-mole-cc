@@ -37,7 +37,7 @@ function GameBoard() {
 
   const restartGame = useCallback(() => {
     activateRandomSpot();
-    setThreadId(setTimeout(restartGame, levelSetting.spotRate));
+    setThreadId(window.setTimeout(restartGame, levelSetting.spotRate));
   }, [activateRandomSpot, levelSetting.spotRate]);
 
   const stopGame = useCallback(() => {
