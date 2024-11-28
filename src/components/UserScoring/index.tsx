@@ -6,7 +6,7 @@ function UserScoring() {
   const {
     state: { points },
   } = useContext(GameContext);
-  return <>{points}</>;
+  return <>Score: {points}</>;
 }
 
 export default UserScoring;

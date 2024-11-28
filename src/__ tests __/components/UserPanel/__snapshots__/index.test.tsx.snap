@@ -5,6 +5,7 @@ exports[`UserPanel component Renders correctly 1`] = `
   <div
     class="user-panel"
   >
+    Score: 
     0
     <div
       class="user-info-container"
@@ -30,6 +31,7 @@ exports[`UserPanel component Renders correctly 2`] = `
   <div
     class="user-panel"
   >
+    Score: 
     0
     <div
       class="user-info-container"
