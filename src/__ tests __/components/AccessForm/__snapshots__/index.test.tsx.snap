@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AccessForm component Renders correctly 1`] = `
+<div>
+  <form
+    class="access-form"
+    id="access-form"
+    novalidate=""
+  >
+    <input
+      class="form-control"
+      id="access-username"
+      maxlength="15"
+      name="username"
+      placeholder="Name"
+      type="text"
+    />
+    <input
+      class="button"
+      disabled=""
+      id="access-submit-button"
+      type="submit"
+      value="Join"
+    />
+  </form>
+</div>
+`;

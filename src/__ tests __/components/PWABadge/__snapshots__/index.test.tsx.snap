@@ -1,0 +1,82 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PWABadge component Renders correctly - needRefresh state 1`] = `
+<div>
+  <div
+    aria-labelledby="toast-message"
+    class="PWABadge"
+    role="alert"
+  >
+    <div
+      class="PWABadge-toast"
+    >
+      <div
+        class="PWABadge-message"
+      >
+        <span
+          id="toast-message"
+        >
+          New content available, click on reload button to update.
+        </span>
+      </div>
+      <div
+        class="PWABadge-buttons"
+      >
+        <button
+          class="button PWABadge-toast-button"
+        >
+          Reload
+        </button>
+        <button
+          class="button PWABadge-toast-button"
+        >
+          Close
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`PWABadge component Renders correctly - offlineReady state 1`] = `
+<div>
+  <div
+    aria-labelledby="toast-message"
+    class="PWABadge"
+    role="alert"
+  >
+    <div
+      class="PWABadge-toast"
+    >
+      <div
+        class="PWABadge-message"
+      >
+        <span
+          id="toast-message"
+        >
+          App ready to work offline
+        </span>
+      </div>
+      <div
+        class="PWABadge-buttons"
+      >
+        <button
+          class="button PWABadge-toast-button"
+        >
+          Close
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`PWABadge component Renders correctly 1`] = `
+<div>
+  <div
+    aria-labelledby="toast-message"
+    class="PWABadge"
+    role="alert"
+  />
+</div>
+`;

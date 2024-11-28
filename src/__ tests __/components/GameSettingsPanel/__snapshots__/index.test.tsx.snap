@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GameSettingsPanel component Renders correctly 1`] = `
+<div>
+  <div
+    class="game-settings-panel"
+  >
+    <span>
+      Levels
+    </span>
+    <div
+      class="level-buttons"
+    >
+      <button
+        class="button level-button selected"
+        title="Level LOW"
+      >
+        LOW
+      </button>
+      <button
+        class="button level-button "
+        title="Level MEDIUM"
+      >
+        MEDIUM
+      </button>
+      <button
+        class="button level-button "
+        title="Level HARD"
+      >
+        HARD
+      </button>
+    </div>
+  </div>
+</div>
+`;

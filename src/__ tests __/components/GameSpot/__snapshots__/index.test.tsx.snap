@@ -1,0 +1,67 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GameSpot component Dispatches SET_POINTS action on image click 1`] = `
+<div>
+  <div
+    class="game-spot"
+  >
+    <div
+      class="spot-mark ready"
+    />
+    <div
+      class="spot-mole-wrapper"
+    >
+      <img
+        alt="Mole"
+        class="spot-mole show"
+        role="button"
+        src="test-file-stub"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`GameSpot component Renders correctly - according to the state prop 1`] = `
+<div>
+  <div
+    class="game-spot"
+  >
+    <div
+      class="spot-mark ready"
+    />
+    <div
+      class="spot-mole-wrapper"
+    >
+      <img
+        alt="Mole"
+        class="spot-mole "
+        role="button"
+        src="test-file-stub"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`GameSpot component Renders correctly - according to the state prop 2`] = `
+<div>
+  <div
+    class="game-spot"
+  >
+    <div
+      class="spot-mark ready"
+    />
+    <div
+      class="spot-mole-wrapper"
+    >
+      <img
+        alt="Mole"
+        class="spot-mole show"
+        role="button"
+        src="test-file-stub"
+      />
+    </div>
+  </div>
+</div>
+`;
