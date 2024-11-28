@@ -2,6 +2,7 @@
 
 exports[`UserScoring component Renders correctly 1`] = `
 <div>
+  Score: 
   0
 </div>
 `;

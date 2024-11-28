@@ -65,8 +65,10 @@ function GameBoard() {
   }, [restartGame, stopGame, started, threadId, dispatch]);
 
   useEffect(() => {
-    clearTimeout(threadId);
-    restartGame();
+    if (started) {
+      clearTimeout(threadId);
+      restartGame();
+    }
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [levelSetting]);
 
